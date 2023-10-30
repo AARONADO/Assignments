@@ -1,0 +1,219 @@
+.green{
+    width: 1200px;
+    height: 550px;
+    position: fixed;
+
+}
+.yoshi{
+    width: 1000px;
+    height: 430px;
+    margin-left: 90px;
+    position: relative;
+    margin-top: 50px;
+}
+.white-bar{
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    margin-top: -410px;
+    margin-left: 90px;
+    position: fixed;
+}
+.icons{
+    display: flex;
+    margin-left: 620px;
+    justify-content: space-between;
+}
+.bi-search{
+    margin-left: 170px;
+    position: fixed;
+    margin-top: 15px;
+}
+.bi-cart-dash-fill{
+    margin-left: 215px;
+    position: fixed;
+    margin-top: 12px;
+}
+.bi-chat-square-heart-fill{
+    position: fixed;
+    margin-left: 260px;
+    margin-top: 13px;
+}
+.alltxt1{
+    display: flex;
+    margin-left: 430px;
+    
+    margin-top: -10px;
+}
+.h{
+    position: fixed;
+    margin-left: 15px;
+}
+.c{
+    margin-left: 180px;
+    position: fixed;
+}
+.a{
+    position: fixed;
+    margin-left: 120px;
+}
+.p{
+    position: fixed;
+    margin-left: 70px;
+}
+.s{
+    position: fixed;
+    margin-left: -20px;
+}
+.h{
+    position: fixed;
+    margin-left: -90px;
+}
+.p{
+    position: fixed;
+    margin-left: 35px;
+}
+.world{
+    position: fixed;
+    margin-left: 40px;
+}
+.firstbar{
+    width: 1000px;
+    height: 24px;
+    background-color: rgb(60, 243, 197);
+    position: relative;
+    margin-top: -434px;
+    margin-left: 90px;
+    position: fixed;
+}
+.phone{
+    position: fixed;
+    margin-top: -20px;
+    margin-left: 35px;
+}
+.mail{
+    position: fixed;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.gc{
+    position: fixed;
+    margin-left: 580px;
+    margin-top: -20px;
+    
+}
+.tc{
+    position: fixed;
+    margin-left: 670px;
+    margin-top: -20px;
+}
+.lang{
+    position: fixed;
+    margin-left: 780px;
+    margin-top: -20px;
+}
+.altimate{
+    position: fixed;
+    margin-top: -50px;
+    margin-left: 70px;
+    
+}
+.but{
+    position: fixed;
+    background-color: rgb(20, 170, 53);
+    width: 100px;
+    height: 30px;
+    margin-top: 80px;
+    margin-left: 90px;
+    border-color:  rgb(20, 170, 53);
+
+}
+.happy{
+    position: fixed;
+    margin-top: -30px;
+    margin-left: 5px;
+}
+.kids{
+    position: fixed;
+    margin-left: 80px;
+}
+.inner{
+    margin-top: -240px;
+    position: fixed;
+    margin-left: 190px;
+}
+.now{
+    color: white;
+    position: fixed;
+    margin-top: -25px;
+    margin-left: 10px;
+}
+.b1{
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    margin-top: -45px;
+    border-color: white;
+    background-color: white;
+    border: none;
+    margin-left: px;
+}
+.h2{
+    position: fixed;
+    margin-top: -25px;
+    
+}
+.b2{
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    margin-top: -45px;
+    border-color: white;
+    background-color: white;
+    border: none;
+}
+.b3{
+    width: 60px;
+    height: 30px;
+    position: fixed;
+    margin-top: -45px;
+    border-color: white;
+    background-color: white;
+    margin-left: 5px;
+    border: none;
+    margin-left: -5px;
+}
+.b4{
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    margin-top: -45px;
+    border-color: white;
+    background-color: white;
+    border: none;
+    
+}
+.b5{
+    width: 60px;
+    height: 30px;
+    position: fixed;
+    margin-top: -45px;
+    border-color: white;
+    background-color: white;
+    border: none;
+    
+    
+}
+.s2{
+    position: fixed;
+    margin-top: -25px;}
+    .p2{
+        position: fixed;
+        margin-top: -25px;}
+        .a2{
+            position: fixed;
+            margin-top: -25px;}
+            .c2{
+                position: fixed;
+                margin-top: -25px;}
