@@ -1,0 +1,53 @@
+.parent-container {
+    background-color: rgb(87, 70, 70);
+    width: 400px;
+    height: 250px;
+    border-radius: 5%;
+    
+
+}
+
+h4 {
+    color: white;
+    margin-top: 10%;
+}
+
+h2 {
+    color: white;
+
+}
+
+h5 {
+    color: white
+}
+
+.pic1 {
+    justify-content: space-between;
+    margin-left: 50%;
+
+}
+.first{
+    display: flex;
+}
+.cn{
+    color: white;
+}
+.no{
+    color: white;
+}
+
+    .date{
+        display: flex;justify-content: space-between;
+        margin-left:3%;
+    }
+.vt{
+    color: white;
+}
+.lower{
+    display: table-column-group;
+}
+.calen{
+    color: white;
+    font-size: x-large;
+    margin-top: -10px;
+}

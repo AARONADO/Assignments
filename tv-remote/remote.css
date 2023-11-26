@@ -1,0 +1,332 @@
+.main-board{
+    width: 150px;
+    height: 600px;
+    background-color: black;
+    border-radius: 20px;
+    position: fixed;
+    margin-left: 100px;
+    box-shadow: 7px 15px 3px;
+}
+.botxt{
+    color: white;
+    position: fixed;
+    margin-top: 550px;
+    margin-left: 60px;
+}
+.butl{
+    width: 60px;
+    height: 30px;
+    position: relative;
+    background-color: white;
+    margin-left: 15px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.butr{
+    width: 60px;
+    height: 30px;
+    position: relative;
+    background-color: white;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.whitebut{
+    display: flex;
+    border-radius: 30px;
+    position: fixed;
+    margin-top: 365px;
+}
+.lbbut{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color:rgb(54, 41, 41) ;
+    position: fixed;
+    margin-top: 290px;
+    margin-left: 10px;
+    border-color:rgba(54, 41, 41, 0.116) ;
+}
+.rbbut{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: rgb(54, 41, 41);
+    position: fixed;
+    margin-top: 240px;
+    margin-left:10px ;
+    border-color:rgba(54, 41, 41, 0.116) ;
+}
+.midbut{
+    width: 40px;
+    height: 90px;
+    border-radius: 13px;
+    background-color:rgb(54, 41, 41) ;
+    position: fixed;
+    margin-top: 240px;
+    margin-left:60px ;
+    border-color:rgba(54, 41, 41, 0.116) ;
+}
+.dbbut{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color:rgb(54, 41, 41) ;
+    position: fixed;
+    margin-top: 290px;
+    margin-left:105px ;
+    border-color:rgba(54, 41, 41, 0.116) ;
+}
+.tpbut{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color:rgb(54, 41, 41) ;
+    position: fixed;
+    margin-top: 240px;
+    margin-left:105px ;
+    border-color:rgba(54, 41, 41, 0.116) ;
+}
+
+.left{
+    width: 45px;
+    height: 40px;
+    
+    background-color:rgb(54, 41, 41);
+    position: fixed;
+    margin-top: 137px;
+    margin-left: 17px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-color:rgba(54, 41, 41, 0.116) ;
+    
+}
+.right{
+    width: 45px;
+    height: 40px;
+    
+    background-color:rgb(54, 41, 41);
+    position: fixed;
+    margin-top: 135px;
+    margin-left: 90px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-color:rgba(54, 41, 41, 0.116) ;
+    
+}
+.down{
+    width: 30px;
+    height: 50px;
+    
+    background-color:rgb(54, 41, 41);
+    position: fixed;
+    margin-top: 175px;
+    margin-left: 61px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-color:rgba(54, 41, 41, 0.116) ;
+    
+}
+.top{
+    width: 30px;
+    height: 50px;
+margin-left: 61px;
+    background-color:rgb(54, 41, 41);
+    position: fixed;
+    margin-top: 88px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-color:rgba(54, 41, 41, 0.116) ;
+    
+}
+.control{
+    position: fixed;
+    margin-left: 5px;
+
+}
+.cont{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    position: fixed;
+    margin-top: 90px;
+    margin-left: 13px;
+    
+
+}
+.cond{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    position: fixed;
+    margin-top: 190px;
+    margin-left: 13px;
+}
+.conrt{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    position: fixed;
+    margin-top:85px ;
+    margin-left:104px;
+}
+.conrd{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    position: fixed;
+    margin-top:190px ;
+    margin-left:100px;
+}
+.power{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    position: fixed;
+    margin-left: -90px;
+}
+.set{
+    width: 40px;
+    height: 40px;
+    border-radius: 13px;
+    background-color: grey;
+    margin-left: 89px;
+    
+    position: relative;
+}
+.switch{
+    display: flex;
+    margin-top: 15px;
+    
+    justify-content: space-around;
+}
+.bi-sign-intersection-t{
+    font-size: x-large;
+    margin-top: -13px;
+    position: fixed;
+    margin-left: -12px;
+}
+.netflix{
+    position: fixed;
+    margin-top: -25px;
+    color: red;
+}
+.pneg{
+    color: white;
+    position: fixed;
+    margin-top: -25px;
+    
+}
+.ppos{
+    color: white;
+    position: fixed;
+    margin-top: -25px;
+    
+}
+.bi-dash-lg{
+    color: white;
+    position: fixed;
+    margin-top: 22px;
+    font-size: x-large;
+    margin-left: -11px;
+}
+.bi-megaphone{
+    color: white;
+    position: fixed; 
+    margin-top: 3px;
+    margin-left: -6px;
+}
+.bi-plus-lg{
+    color: white;
+    position: fixed; 
+    margin-top: -35px;
+    margin-left: -11px;
+    font-size: x-large;
+}
+.bi-keyboard{
+    color: white;
+}
+.bi-house{
+    color: white;
+    font-size: large;
+}
+.bi-arrow-left{
+    color: white;
+    font-size: large;
+}
+.bi-box-arrow-in-right{
+    color: white;
+    font-size: large;
+}
+.bi-justify{
+    color: white;
+    font-size: large;
+}
+.bi-caret-down-fill{
+    color: white;
+    font-size: large;
+    position: fixed;
+    margin-left: -9px;
+}
+.bi-caret-right-fill{
+    color: white;
+    font-size: large;
+    position: fixed;
+    margin-top: -10px;
+}
+.bi-caret-left-fill{
+    color: white;
+    font-size: large;
+    position: fixed;
+    margin-top: -11px;
+    margin-left: -15px;
+}
+.bi-caret-up-fill{
+    color: white;
+    font-size: large;
+    position: fixed;
+    margin-top: -16px;
+    margin-left: -7px;
+}
+.bi-gear{
+    color: white;
+    font-size: large;
+}
+.bi-power{
+    color: rgb(233, 13, 13);
+    font-size: x-large;
+}
+.red{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(172, 18, 18);
+    border-radius: 20px;
+}
+.green{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(17, 75, 17);
+    border-radius: 20px;
+}
+.yellow{
+    width: 10px;
+    height: 10px;
+    background-color:rgb(214, 214, 22);
+    border-radius: 20px;
+}
+.blue{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(19, 19, 248);
+    border-radius: 20px;
+}
+.colors{
+    display: flex;
+    position: fixed;
+    margin-top: 280px;
+    margin-left: 10px;
+}
